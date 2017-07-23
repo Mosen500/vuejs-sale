@@ -1,0 +1,65 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "吃酸汤牛肉，品本味贵州！6月20日全场6.8折霸气独宠粉丝，约起~",
+      "url": "http://weibo.com/ttarticle/p/show?id=2309404119312955789192"
+    },
+    {
+      "id": 2,
+      "title": "贵州羊肉粉的四大门派，你站哪一派？",
+      "url": "http://weibo.com/ttarticle/p/show?id=2309404120700909704499"
+    },
+    {
+      "id": 3,
+      "title": "你的夏天，贵州承包了！各种玩法推荐",
+      "url": "https://m.weibo.cn/p/23126100007542069269108737"
+    },
+    {
+      "id": 4,
+      "title": "兴义美食节很火爆！“吃货”成潮吃吃吃！明天是最后一天，赶紧去饱口福吧！",
+      "url": "https://baijiahao.baidu.com/s?id=1571747142903410&wfr=spider&for=pc"
+    }
+  ],
+  "login": {
+    "username": "yudongdong",
+    "userId": 123123
+  },
+  "getPrice": {
+    "amount": 10
+  },
+  "createOrder": {
+    "orderId": "6djk979"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+      }
+    ]
+  }
+}
